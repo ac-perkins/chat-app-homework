@@ -36,3 +36,4 @@ The two API endpoints you need to call using Ajax are below:
   Note that the token must be the same one that you received upon logging in!
 
 When you get a successful response from the `/login` endpoint then you need to hide the login form and show the chat message interface. You don't really _need_ to do anything when you send a chat message, but there are some nice things you could do for the user - like clear out the input so they can type a new message!
+# w4d3-chatapp
