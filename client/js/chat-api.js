@@ -1,5 +1,6 @@
 
 (function(chat) {
+  'use strict';
     chat = chat || (window.chat = {});
 
     chat.init = function initChat(messageHandler) {
